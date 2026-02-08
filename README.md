@@ -1,6 +1,8 @@
-<h2 align="center">🤖 AI Engineering & Intelligent Systems</h2>
+# Hi there, I'm Shru! 👋
 
-<p align="center">
+<h2>🤖 AI Engineering & Intelligent Systems</h2>
+
+<p>
   <em>Designing intelligent systems across Machine Learning, Robotics, and Software.</em>
 </p>
 
