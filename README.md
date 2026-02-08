@@ -56,28 +56,17 @@ Real-time object detection and tracking using **YOLOv8 + OpenCV**, integrated wi
 🔹 **Django Web Application (GWOC)**  
 Full-stack web app with authentication, database models, and clean backend architecture.
 
-🔹 **Gray Color Perception Study**  
-Experimental research on visual perception — blending engineering, psychology, and design.
 
----
+## 🎓 Education
 
-### 🏭 Industry Exposure
+**B.Tech in Mechanical Engineering**  
+Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat  
+2023 – 2027  
 
-![Aerospace](https://img.shields.io/badge/Aerospace_Manufacturing-000?style=flat-square)
-![Quality](https://img.shields.io/badge/Quality_Engineering-333?style=flat-square)
+**B.S. in Electronic Systems**  
+Indian Institute of Technology Madras (IITM)  
+2024 – 2028  
 
-Hands-on experience with:
-- Material testing & metallurgy
-- Heat treatment & forging
-- Time study & process optimization
-- AS9100 · NADCAP · ISO 17025 environments
-
----
-
-### 🎓 Education
-
-![SVNIT](https://img.shields.io/badge/B.Tech_Mechanical-SVNIT-0A1A2F?style=flat-square)
-![IITM](https://img.shields.io/badge/B.S_Electronic_Systems-IIT_Madras-800000?style=flat-square)
 
 ---
 
