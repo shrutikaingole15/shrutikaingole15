@@ -1,6 +1,7 @@
-# Hi there, I'm Shru! 👋
+# Hi there, I'm Shrutika Ingole! 👋
 
-<h2>🤖 AI Engineering & Intelligent Systems</h2>
+<h2>🤖 Applied AI & Systems Thinking
+</h2>
 
 <p>
   <em>Designing intelligent systems across Machine Learning, Robotics, and Software.</em>
