@@ -6,8 +6,6 @@
 <p>
   <em>Designing intelligent systems across Machine Learning, Robotics, and Software.</em>
 </p>
----
-
 ### 🧠 About Me
 
 I’m an engineering student working at the intersection of  
@@ -46,6 +44,10 @@ I enjoy turning theory into **working systems**, not just notebooks.
 
 🔹 **Object Following Robot**  
 Real-time object detection and tracking using **YOLOv8 + OpenCV**, integrated with Arduino-based motor control.
+
+🔹 **Qulu – Movie Recommender System**  
+  Netflix-style content-based movie recommendations using metadata similarity and TMDB API poster integration.
+
 
 🔹 **Django Web Application (GWOC)**  
 Full-stack web app with authentication, database models, and clean backend architecture.
