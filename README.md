@@ -5,7 +5,10 @@
 
 <p>
   <em>Designing intelligent systems across Machine Learning, Robotics, and Software.</em>
-</p>
+</p> 
+
+---
+
 ### 🧠 About Me
 
 I’m an engineering student working at the intersection of  
@@ -46,8 +49,10 @@ I enjoy turning theory into **working systems**, not just notebooks.
 Real-time object detection and tracking using **YOLOv8 + OpenCV**, integrated with Arduino-based motor control.
 
 🔹 **Qulu – Movie Recommender System**  
-  Netflix-style content-based movie recommendations using metadata similarity and TMDB API poster integration.
-
+Netflix-style content-based movie recommendations using metadata similarity and TMDB API poster integration.
+  
+🔹 **Internship Tracker Telegram Bot**
+A personal Telegram bot built to track internship applications, deadlines, and status updates, designed to replace messy spreadsheets and forgotten Notion pages with a simple, disciplined workflow.
 
 🔹 **Django Web Application (GWOC)**  
 Full-stack web app with authentication, database models, and clean backend architecture.
