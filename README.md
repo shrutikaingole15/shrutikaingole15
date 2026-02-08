@@ -6,15 +6,6 @@
 <p>
   <em>Designing intelligent systems across Machine Learning, Robotics, and Software.</em>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv"/>
-  <img src="https://img.shields.io/badge/YOLOv8-000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django"/>
-</p>
-
 ---
 
 ### 🧠 About Me
